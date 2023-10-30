@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Shooting: MonoBehaviour
+public class Shooting : MonoBehaviour
 {
     public GameObject targetObject;
     public GameObject bulletPrefab; // Assign the bullet prefab in the Inspector.
